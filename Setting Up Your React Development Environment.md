@@ -30,3 +30,5 @@
 ## * Use Credential Manager to store GitHub credentials 
 ## * Remove old GitHub entries to prevent authentication issues
 ## * Use Personal Access Token instead of password for GitHub
+
+## Jan Lew Calumpiano
