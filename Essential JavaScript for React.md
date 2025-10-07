@@ -1,50 +1,52 @@
 # Destructuring Assignment
 
-## Question
+## Question: Why does it matters in react?
 
-## Answer
+## Answer: it is essential since it works with props and state in react components
 
 
 
 
 # Arrow Functions
 
-## Question
+## Question: Why does it matters in react?
 
-## Answer
+## Answer: since its commonly used for event handlers and inline functions.
 
 
 
 
 # Spread & Rest Operators
 
-## Question
+## Question: Why does it matters in react?
 
-## Answer
+## Answer: it is critical for immutable updates in react state management
 
 
 
 
 # Array Methods
 
-## Question
+## Question: Why does it matters in react?
 
-## Answer
+## Answer: its essential for rendering lists and transforming data in react
 
 
 
 
 # Template Literals
 
-## Question
+## Question: Why does it matters in react
 
-## Answer
+## Answer: its useful for dynamic content and multi-line strings in react
 
 
 
 
 # Conditional (Ternary) Operator
 
-## Question
+## Question: Why does it matters in react
 
-## Answer
+## Answer: its frequently used for conditional rendering in react JSX.
+
+# Arron Layugan
